@@ -24,6 +24,42 @@
 - 📫 How to reach me **p.zhangqiu@gmail.com**
 
 <br/>
+<!---
+### 📌Pinned Repositories
+<p align="left">
+<a href="https://github.com/eteeXR/etee-Python-API">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+</p>
+-->
+
+---
+
+### 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-333333??style=flat&logo=Keras)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-333333??style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333??style=flat&logo=PyTorch)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
+![Unity](https://img.shields.io/badge/unity-333333?style=flat&logo=unity)
+![Steam](https://img.shields.io/badge/steam-333333?style=flat&logo=steam)
+![JavaScript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-333333?style=flat&logo=bitbucket&logoColor=white)
+
+---
+
 <h3 align="center" >Connect with me 🤝</h3>
 
 <p align="center">
