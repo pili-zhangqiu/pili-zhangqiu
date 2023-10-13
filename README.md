@@ -17,7 +17,7 @@
 
 <h4>About me</h4>
 
-- 👩‍🎓 Design Engineering Major from Imperial College London
+- 👩‍🎓 Design Engineering Major (spc. Robotics) from Imperial College London.
 
 - 🌐 Learn more about my background at <a href="https://www.pilarzhangqiu.com/" target="blank">pilarzhangqiu.com</a>
 
