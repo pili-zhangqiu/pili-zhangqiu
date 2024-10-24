@@ -7,11 +7,11 @@
 
 <h4>Work</h4>
 
-- 🔭 I’m currently working at <a href="https://www.tg0.co.uk/" target="blank">TG0</a>
-
-- 🌱 I’m developing <a href="https://store.steampowered.com/app/1590110/eteeConnect/" target="blank">VR drivers</a> (C++) and developer resources (<a href="https://github.com/eteeXR/etee-Python-API" target="blank">APIs</a> and <a href="https://tg0-etee-python-api.readthedocs-hosted.com/en/latest/index.html" target="blank">documentation</a> in Python, Unity C#) for <a href="https://www.eteexr.com/" target="blank">eteeXR</a>
+- 🔭 I’m currently working in tech and I'm passionate about applied AI.</a>
 
 - 👩‍🔬 I’m an IEEE/RSJ IROS awardee who researched <a href="https://www.pilarzhangqiu.com/medical-percussion" target="blank">AI-based medical examinations</a>
+
+- 🌱 I used to develop <a href="https://store.steampowered.com/app/1590110/eteeConnect/" target="blank">VR drivers</a> (C++) and developer resources (<a href="https://github.com/eteeXR/etee-Python-API" target="blank">APIs</a> and <a href="https://tg0-etee-python-api.readthedocs-hosted.com/en/latest/index.html" target="blank">documentation</a> in Python, Unity C#) for <a href="https://www.eteexr.com/" target="blank">eteeXR</a>
 
 - 💬 Ask me about **physical computing & AI in MedTech**
 
