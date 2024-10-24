@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pilar</h1>
-<h3 align="center">A passionate software developer & designer in London</h3>
+<h3 align="center">A passionate tech enthusiast in London</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" alt="GIF" src="https://github.com/pili-zhangqiu/pili-zhangqiu/blob/main/img/Pilar_MadowskaAvatar_Transparent.png?raw=true">
