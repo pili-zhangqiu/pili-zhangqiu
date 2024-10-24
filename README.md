@@ -7,7 +7,7 @@
 
 <h4>Work</h4>
 
-- 🔭 I’m currently working in tech and I'm passionate about applied AI.</a>
+- 🔭 I’m currently working in tech, delivering technical programmes.</a>
 
 - 👩‍🔬 I’m an IEEE/RSJ IROS awardee who researched <a href="https://www.pilarzhangqiu.com/medical-percussion" target="blank">AI-based medical examinations</a>
 
