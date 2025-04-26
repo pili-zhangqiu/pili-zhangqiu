@@ -50,9 +50,6 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp&logoColor=A8B9CC)&nbsp;
 ![Unity](https://img.shields.io/badge/unity-333333?style=flat&logo=unity)
 ![Steam](https://img.shields.io/badge/steam-333333?style=flat&logo=steam)
-![JavaScript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
